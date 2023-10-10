@@ -1,5 +1,5 @@
 
-    /* styling navlist */
+    
     #navlist {
         background-color: #34383b;
         position: absolute;
@@ -7,7 +7,7 @@
         height: 70px;
     }
          
-    /* styling navlist anchor element */
+    
     #navlist a {
         float:left;
         display: block;
